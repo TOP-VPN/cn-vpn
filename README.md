@@ -4,7 +4,7 @@
 
 我们对以下[推荐的机场梯子](https://gitlab.com/best_vpn1/2024-vpn)进行测速，保证机场线路稳定可靠，且满足高性价比低价因素外，我们尽可能推荐成立时间较长翻墙机场，以最大限度地降低机场跑路的风险。以下机场梯子推荐适用于多个平台上的Clash for Windows、Clash for Android、ClashX、Surfboard、Shadowrocket、V2rayN、Surge、Quantumult X、Stash、Loon、sing-box等翻墙插件。这些梯子软件可以直接导入并使用，适合已经掌握一些基础翻墙知识的用户。
 
-![机场节点](https://github.com/TOP-VPN/cn-vpn/assets/173128277/f5343fa4-c17a-450c-b035-722bde3d34eb)
+![机场节点](https://www.cnvintage.org/assets/files/2025-03-01/1740816701-72900-image.png)
 
 
 ---
@@ -15,7 +15,7 @@
 
 * 主打稳定便宜的Clash机场，同时支持Surge、Stash、Shadowrocket、QuantumultX
 * 支付方式灵活：月付、季付、半年付、年付、两年付
-* 价格：￥11元/月起， 您可以根据每个月需要的流量来决定购买不同的等级
+* 价格：￥14元/月起， 您可以根据每个月需要的流量来决定购买不同的等级
 * 流媒体 ：4K不卡顿，港台新节点解锁奈飞Netflix/Disney+/HULU/HBO/TVB/动画疯等国外流媒体视频
 * 最多支持同时10台设备连接
 * 机场优点 ：隧道节点现已可正常使用，采用移动+CMI2G带宽。
@@ -72,7 +72,7 @@
 #2025梯子推荐 #翻墙机场 #翻墙机场推荐 #SS/DDR/机场 机场加速器购买 #V2ray机场梯子 #Trojan机场 #Clash节点VPN #好用的便宜梯子 #翻墙梯子 #高性价比梯子 #稳定梯子推荐 #手机电脑梯子 #外网梯子
 
 
-#### [点击传送1号梯子「月租11元」 ](https://go.1vpn.cc/jife)
+#### [点击传送1号梯子「月租11元」 ](https://go.1vpn.cc/ewan)
 轻量应用-多快好省
 
 #### [点击传送2号梯子「月租12元」 ](https://go.1vpn.cc/nisi)
